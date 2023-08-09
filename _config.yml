@@ -1,2 +1,4 @@
-theme: minima
 baseurl: "/blog"
+url:     "https://www.apero-solutions.com"
+theme:   minima
+
